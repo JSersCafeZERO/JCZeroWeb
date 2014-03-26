@@ -17,5 +17,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JSersCafeZERO/JCZeroWeb/issues"
+  },
+  "engines": {
+    "node": "> 0.11.10"
+  },
+  "dependencies": {
+    "koa": "~0.5.2"
   }
 }
